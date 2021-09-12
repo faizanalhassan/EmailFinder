@@ -1,0 +1,4 @@
+CHROME_PATH=C:\Program Files\Google\Chrome\Application\chrome.exe
+MAX_SUB_URLS=10  # if email not found on home page and contact page, how many available urls it should try? set -1 if want to search in all but not recommended.
+HEADLESS=True
+TIMEOUT=120000  # 2 minutes
